@@ -1,0 +1,2 @@
+# chinese_description_generator
+生成AIを用いて、中華メーカー風の商品説明文を生成します。
